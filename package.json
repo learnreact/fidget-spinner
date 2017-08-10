@@ -1,34 +1,12 @@
 {
-  "name": "react-svg-spinner",
-  "version": "0.2.0",
+  "name": "fidget-spinner",
+  "version": "0.0.0",
   "description": "An SVG spinner component.",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "jest",
-    "prepublish": "webpack",
-    "storybook": "start-storybook -p 9001 -c .storybook",
-    "build-storybook": "build-storybook -c .storybook -o docs"
-  },
+  "scripts": {},
   "author": "Michael Chan @chantastic",
   "license": "MIT",
-  "dependencies": {
-    "webpack": "^2.2.1"
-  },
+  "dependencies": {},
   "peerDependencies": {},
-  "devDependencies": {
-    "@kadira/storybook": "^2.35.3",
-    "babel-jest": "^18.0.0",
-    "babel-loader": "^6.2.10",
-    "babel-plugin-transform-object-rest-spread": "^6.22.0",
-    "babel-polyfill": "^6.22.0",
-    "babel-preset-latest": "^6.22.0",
-    "babel-preset-react": "^6.22.0",
-    "enzyme": "^2.7.1",
-    "jest": "^18.1.0",
-    "prop-types": "^15.5.10",
-    "react": "^15.4.2",
-    "react-addons-test-utils": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-test-renderer": "^15.4.2"
-  }
+  "devDependencies": {}
 }
